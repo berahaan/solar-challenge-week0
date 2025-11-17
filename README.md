@@ -52,7 +52,7 @@ The project is organized for clarity and reproducibility as below .
 ├── reports/
 │   ├── Interim_Report.pdf
 │   ├── Final_Report.pdf
-│   └── dashboard_screenshot.png
+│
 ├── requirements.txt
 └── README.md
 ```
@@ -94,7 +94,7 @@ cd solar-challenge-week0
 ```
 
 2. Environment Setup & Dependencies
-Create and activate a virtual environment, then install the necessary packages.
+Create and activate a virtual environments, then install the necessary packages.
 
 # Using venv (Recommended)
 python -m venv venv
