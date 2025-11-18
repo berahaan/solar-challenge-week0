@@ -1,4 +1,4 @@
-# ☀️ Solar Data Discovery: Solar Farm Potential Analysis (Benin, Sierra Leone, Togo)
+# ☀️ Solar Data Discovery
 
 **A Data Science Project for the 10 Academy Solar Data Discovery Challenge**
 
